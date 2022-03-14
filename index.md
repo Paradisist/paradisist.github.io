@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid ea, quis error 
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas nobis doloremque neque molestiae iure voluptates? Quos maiores ea animi at, quam sint architecto deleniti facilis porro officia fugit quod tempore.
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, quo animi, consequatur ipsam vel cumque asperiores hic, ad voluptatibus laborum quidem vero non explicabo saepe commodi. Blanditiis totam corrupti accusamus.
 <h4 id="test" >TEST</h4>
-<a href="kitten.jpg" download><img src="kitten.jpg" width="300" alt="Пиняев"/></a>
+<a href="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/85/1d/9453b5590be9f05f23119c236b7cd16b5f3a6ca41ffaa915331671.jpg" download><img src="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/85/1d/9453b5590be9f05f23119c236b7cd16b5f3a6ca41ffaa915331671.jpg" width="300" alt="Пиняев"/></a>
 <form action="mail.php">
   <input type="tel" placeholder="введите телефон">
   <button>
@@ -84,3 +84,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, quo animi, c
 </table>
 </body>
 </html>
+
