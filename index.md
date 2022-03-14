@@ -7,8 +7,11 @@
     <title>ШОЗАНАХ</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body><h1>
-    Пиняев лучший че сказать
+<body>
+  <h1 class="title">
+  <blockquote>
+Пиняев лучший че сказать
+  </blockquote>
   </h1>
   <h2>
      Описание
@@ -18,19 +21,19 @@
   </h2>
   <ol>
     <li><a href="#test">Посмотреть видео</a></li>
-    <li>Пососать хуй</li>
+    <li>Понять кто гений</li>
     <li>Поспать</li>
   </ol>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <strong>Nihil</strong> excepturi enim eos ab <b>nesciunt</b> ipsum neque recusandae quod natus adipisci obcaecati, sed quasi suscipit dignissimos eveniet necessitatibus. Delectus, repellat consequatur.</p>
+  <strong>s1mple strong</strong>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <strong class="blue">Nihil</strong> excepturi enim eos ab <b>nesciunt</b> ipsum neque recusandae quod natus adipisci obcaecati, sed quasi suscipit dignissimos eveniet necessitatibus. Delectus, repellat consequatur.</p>
   <p>Ipsum dolor sit, amet consectetur <em>adipisicing</em> elit. Consectetur provident ullam nesciunt animi eveniet voluptate maiores ducimus. Pariatur, molestias ut ipsa illo quam ipsum nemo, rerum expedita aperiam dicta consequatur?Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
   <p>Magnam nisi laboriosam aliquid quasi! Saepe atque <s>similique</s> cum quis harum, illum ratione veniam reprehenderit, consequuntur enim iusto earum dolore Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat laborum voluptate fuga corrupti ducimus odit nihil sed a placeat quaerat modi debitis veniam, quod praesentium velit itaque quia ut tempora!</p>
-  <blockquote>
+  <blockquote class="blue red">
     Зенит сосать!
   </blockquote>
 <pre>
  var i = 1;
 </pre>
-<img src="kitten.jpg" width="300" alt="Пиняев"/>
 <a target="_blank" href="yandex.ru">
     Yandex link
 </a>
