@@ -9,9 +9,10 @@
 <body>
   <h1 class="title">
   <blockquote>
-Пиняев лучший че сказать
+    Пиняев лучший че сказать
   </blockquote>
 </h1>
+<img src="https://i.ytimg.com/vi/6ZgjgMtFvfw/maxresdefault.jpg" width="400" style="float: right;" alt="Пиняев">
   <h2>
      Описание:
   </h2>
@@ -65,6 +66,12 @@
 <form action="https://www.sports.ru/sergey-pinyaev/" target="blank">
   <button>  Посмотреть стату подробней </button>
 </form>
+<div>
+  <h2>Display</h2>
+  <p>
+    Lorem ipsum, dolor <span style="display: inline-block; margin-top: 10px;">icon</span> sit amet consectetur adipisicing elit. Facilis autem ab quisquam quia.Eum, modi quas! Iure, dolore repellendus quia fugiat, quasi ad eos porro consectetur illo laborum quis accusamus!
+  </p>
+  </div>
 </body>
 </html>
 
